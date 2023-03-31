@@ -1,6 +1,6 @@
 Name:		texlive-firamath-otf
 Version:	50732
-Release:	1
+Release:	2
 Summary:	Use OpenType math font Fira Math
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/firamath-otf
