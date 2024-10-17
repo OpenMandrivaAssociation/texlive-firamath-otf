@@ -3,7 +3,7 @@ Version:	68233
 Release:	1
 Summary:	Use OpenType math font Fira Math
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/firamath-otf
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/firamath-otf
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/firamath-otf.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/firamath-otf.doc.r%{version}.tar.xz
